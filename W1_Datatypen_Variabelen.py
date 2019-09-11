@@ -4,15 +4,15 @@
 
 # Soorten Datatypen
 # Integer / int (gehele getallen)
-print("Integers: ", 27, 8, 0, -12)
+print("Integer: ", 27, 8, 0, -12)
 # Float (komma getallen)
-print(3.14, -0.9, 8.00065, .25)
+print("Float:", 3.14, -0.9, 8.00065, .25)
 # Charakters / char (1 karakter)
-print('p', 'A', '8', '<', '%')
+print("Character:",'p', 'A', '8', '<', '%')
 # String (rij van karakters / tekst)
-print("aap", "Dit is een string.", "7#2s1%")
+print("String:", "aap", "Dit is een string.", "7#2s1%")
 # Boolean / bool (waar/onwaar)
-print(True, False)
+print("Boolean:", True, False)
 
 ### Variabelen
 # Een variabele is een geheugenplaats voor tijdelijke opslag van gegevens
@@ -26,7 +26,7 @@ print(True, False)
 getal = 17
 som = (getal + 5) * 4
 kopie = som
-print("kopie ", kopie)
+print("kopie", kopie)
 #Hierboven staan 3 variabelen: getal, som en kopie. Allemaal van het type integer
 
 ### Naamgeving Variabelen / Datacontainers
